@@ -16,12 +16,11 @@ We believe in the power of community! Here’s how you can be a part of Dimvy Cl
 - **Collaborate**: Join forces with us to build innovative and sustainable fashion solutions.
 - **Spread the Word**: Share Dimvy with your friends and family to help us grow our community.
 
-### 📚 Resources
-- [Official Website](#) *(Coming Soon!)*
-- [Documentation](#) *(Coming Soon!)*
+
 
 ### 🍿 Fun Facts
 - Our team loves brainstorming over coffee and snacks!
+- I'm Satoshi Nakamoto 
 - We’re inspired by nature, art, and the vibrant communities we serve.
 
 ### 🧙‍♂️ Let’s Create Magic Together
