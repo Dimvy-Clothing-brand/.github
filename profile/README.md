@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For business inquiries, collaborations, or support:
 - Email: support@dimvy.com
-- Instagram: [@dimvybrand](https://instagram.com/dimvy_clothing_brand)
+- Instagram: [@dimvybrand](https://instagram.com/@dimvy_clothing_brand)
 - Website: https://dimvy.com
 
 ---
